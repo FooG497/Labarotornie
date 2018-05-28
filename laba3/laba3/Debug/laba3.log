@@ -1,0 +1,23 @@
+﻿Сборка начата 08.05.2018 12:05:21.
+     1>Проект "C:\Users\Александр\Documents\Visual Studio 2013\Projects\laba3\laba3\laba3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Zadanie3.c task3.c task4.c task5.c
+         task5.c
+         task4.c
+         task3.c
+     1>c:\users\александр\documents\visual studio 2013\projects\laba3\laba3\task3.c(11): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+         Zadanie3.c
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Александр\Documents\Visual Studio 2013\Projects\laba3\Debug\laba3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Александр\Documents\Visual Studio 2013\Projects\laba3\Debug\laba3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Александр\Documents\Visual Studio 2013\Projects\laba3\Debug\laba3.lib" /MACHINE:X86 Debug\task2.obj
+         Debug\task3.obj
+         Debug\task4.obj
+         Debug\task5.obj
+         Debug\task6.obj
+         Debug\Zadanie3.obj
+         laba3.vcxproj -> C:\Users\Александр\Documents\Visual Studio 2013\Projects\laba3\Debug\laba3.exe
+     1>Сборка проекта "C:\Users\Александр\Documents\Visual Studio 2013\Projects\laba3\laba3\laba3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.73
