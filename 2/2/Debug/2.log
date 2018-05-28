@@ -1,0 +1,25 @@
+﻿Построение начато 27.05.2018 18:25:54.
+     1>Проект "C:\Users\Robert Anderson\Desktop\212688\2\2\2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         E:\Program Files\Visual Studio 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         E:\Program Files\Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Robert Anderson\Desktop\212688\2\Debug\2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Robert Anderson\Desktop\212688\2\Debug\2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Robert Anderson\Desktop\212688\2\Debug\2.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\Node.obj
+         Debug\Stack.obj
+         Debug\TNode.obj
+         Debug\TStack.obj
+         LINK : не найден или не выполнена сборка C:\Users\Robert Anderson\Desktop\212688\2\Debug\2.exe при последней инкрементной компоновке; выполняется полная компоновка
+         2.vcxproj -> C:\Users\Robert Anderson\Desktop\212688\2\Debug\2.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Robert Anderson\Desktop\212688\2\Debug\2.exe;#1" /manifest Debug\2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\2.lastbuildstate".
+     1>Построение проекта "C:\Users\Robert Anderson\Desktop\212688\2\2\2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.26

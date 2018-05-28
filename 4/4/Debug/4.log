@@ -1,0 +1,36 @@
+﻿Построение начато 29.05.2018 1:34:24.
+     1>Проект "C:\Users\Robert Anderson\Desktop\212688\4\4\4.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\4.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         E:\Program Files\Visual Studio 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp SEQueue.cpp
+         SEQueue.cpp
+         Создание кода...
+         Компиляция...
+         Main.cpp
+     1>c:\users\robert anderson\desktop\212688\4\4\main.cpp(7): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+         Создание кода...
+       Link:
+         E:\Program Files\Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Robert Anderson\Desktop\212688\4\Debug\4.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Robert Anderson\Desktop\212688\4\Debug\4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Robert Anderson\Desktop\212688\4\Debug\4.lib" /MACHINE:X86 Debug\AEFactory.obj
+         Debug\AElem.obj
+         Debug\Array.obj
+         Debug\Client.obj
+         Debug\Main.obj
+         Debug\SEQueue.obj
+         Debug\SLEFactory.obj
+         Debug\SLElem.obj
+         Debug\TCQueue.obj
+         Debug\TLEFactory.obj
+         Debug\TLElem.obj
+         LINK : не найден или не выполнена сборка C:\Users\Robert Anderson\Desktop\212688\4\Debug\4.exe при последней инкрементной компоновке; выполняется полная компоновка
+         4.vcxproj -> C:\Users\Robert Anderson\Desktop\212688\4\Debug\4.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Robert Anderson\Desktop\212688\4\Debug\4.exe;#1" /manifest Debug\4.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\4.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\4.lastbuildstate".
+     1>Построение проекта "C:\Users\Robert Anderson\Desktop\212688\4\4\4.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.41
